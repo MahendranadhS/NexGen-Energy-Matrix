@@ -1,1 +1,1 @@
-# NexGen-Energy-Matrix
+# NexGen Energy Matrix (NEM)
